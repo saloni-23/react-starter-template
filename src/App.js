@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  conosle.log("yest")
   return (
     <div className="App">
       <header className="App-header">
